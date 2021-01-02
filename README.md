@@ -1,4 +1,6 @@
-### I'm Ahmed Omara. I am a third year student at FCIH and Skilled software development professional with a passion for software development. Mainly skilled in Java, Kotlin
+## Hi, I'm Ahmed Omara! 👋
+
+I am a third year student at FCIH and Skilled software development professional with a passion for software development. Mainly skilled in Java, Kotlin
 
 
 
