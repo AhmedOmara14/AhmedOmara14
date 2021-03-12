@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Omara</h1>
-<h3 align="center">A Android developer from Egypt and I am a third year Computer Science Student in Helwan University and Skilled software development professional with a passion for software development. Mainly skilled in Java and Kotlin
+<h3 align="center">A Android developer from Egypt and I am a third year Software Engineering Student in Helwan University and Skilled software development professional with a passion for software development. Mainly skilled in Java and Kotlin
 </h3>
 
 - 🔭 I’m currently working at Ivestment
