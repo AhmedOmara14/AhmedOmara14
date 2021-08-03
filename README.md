@@ -3,7 +3,6 @@
 <h3 align="center">A Android developer from Egypt and I am a third year Software Engineering Student in Helwan University and Skilled software development professional with a passion for software development. Mainly skilled in Java and Kotlin
 </h3>
 
-- 🔭 I’m currently working at Ivestment
 - 🌱 I’m currently learning more about Advanced Topics in android and Flutter
 - 💬 Ask me about Android  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="25" height="25">
 - 😄 Pronouns: He/His
