@@ -3,6 +3,7 @@
 
 ## Nice meeting you, I'm Ahmed Omara!
 
+<p><img align="center" src="https://komarev.com/ghpvc/?username=AhmedOmara14" alt="AhmedOmara14" /></p>
 
 <a href="https://linkedin.com/in/ahmed-omara-546955187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ahmed-omara-546955187/" height="30" width="40" /></a>
 <a href="https://github.com/AhmedOmara14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/AhmedOmara14" height="30" width="40" /></a>
