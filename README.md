@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning more about Jetpack Compose, Android development(Forever).
 - 💬 Ask me about Android in general.
 - 📫 How to reach me: Linkedin <a href="https://www.linkedin.com/in/ahmed-omara-546955187/">@AhmedOmara</a>
-- 😄 Pronouns: He/His
-
 
 
 **Languages and Tools:**  
