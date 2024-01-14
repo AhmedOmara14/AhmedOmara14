@@ -1,38 +1,13 @@
+## Hi there 👋, Nice to meet you
 
-### Hi there 👋
+### I'm a Software Engineer 💻, specializing in Android 📱, and Working for [ADVA](https://advaeg.com/en/) 
 
-## Nice meeting you, I'm Ahmed Omara!
+## 👨‍💻 Experienced Android Software Engineer
 
-<p><img align="center" src="https://komarev.com/ghpvc/?username=AhmedOmara14" alt="AhmedOmara14" /></p>
+### 4+ years of expertise contributing to various projects in different companies, including ADVA, ATW LTD, and Propertzcrm. Skilled in developing mobile applications, specializing in Android.
 
-<a href="https://linkedin.com/in/ahmed-omara-546955187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ahmed-omara-546955187/" height="30" width="40" /></a>
-<a href="https://github.com/AhmedOmara14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/AhmedOmara14" height="30" width="40" /></a>
-</p>
+#### 🚀 Passionate about Kotlin Multiplatform, especially in building Declarative UI like Compose
+#### 💬 Inquire about Android architecture, Kotlin, or anything Android-related.
 
-- 🌱 I’m currently learning more about Jetpack Compose, Android development(Forever).
-- 💬 Ask me about Android in general.
-- 📫 How to reach me: Linkedin <a href="https://www.linkedin.com/in/ahmed-omara-546955187/">@AhmedOmara</a>
-
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-
-| <a href="https://github.com/AhmedOmara14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AhmedOmara14&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/AhmedOmara14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedOmara14&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-<br />
-<br />
-<div align="center">
-
-### Share some love with Starring repositories and following me on Linkedin <a href="https://www.linkedin.com/in/ahmed-omara-546955187/">@AhmedOmara</a> 
-
-</div>
-
-
-
+### 📫 How to reach me:
+#### Feel free to reach out to me through my [Linkedin](https://www.linkedin.com/in/ahmed-omara-546955187/).
