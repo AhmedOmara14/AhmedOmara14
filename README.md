@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Experienced Android Software Engineer
 
-### 4+ years of expertise contributing to various projects in different companies, including ADVA, ATW LTD, and Propertzcrm. Skilled in developing mobile applications, specializing in Android.
+### 5+ years of expertise contributing to various projects in different companies, including ADVA, ATW LTD, and Propertzcrm. Skilled in developing mobile applications, specializing in Android.
 
 #### 🚀 Passionate about Kotlin Multiplatform, especially in building Declarative UI like Compose
 #### 💬 Inquire about Android architecture, Kotlin, or anything Android-related.
