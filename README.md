@@ -1,13 +1,21 @@
-## Hi there 👋, Nice to meet you
+### 👋 Hi there, nice to meet you!  
 
-### I'm a Software Engineer 💻, specializing in Android 📱, and Working for [ADVA](https://advaeg.com/en/) 
+#### I'm Ahmed Omara, a Software Engineer specializing in **Android Development**. Currently contributing at [ADVA](https://advaeg.com/en/).  
 
-## 👨‍💻 Experienced Android Software Engineer
+---
 
-### 5+ years of expertise contributing to various projects in different companies, including ADVA, ATW LTD, and Propertzcrm. Skilled in developing mobile applications, specializing in Android.
+## 🚀 Android Developer | 5+ Years of Expertise  
 
-#### 🚀 Passionate about Kotlin Multiplatform, especially in building Declarative UI like Compose
-#### 💬 Inquire about Android architecture, Kotlin, or anything Android-related.
+With experience across leading companies like **ADVA**, **ATW LTD**, and **PropertzCRM**, I've successfully delivered robust mobile solutions.  
+I'm passionate about crafting intuitive, high-performing apps, with a focus on:  
+- **Kotlin Multiplatform Mobile (KMM)**  
+- Building **Declarative UIs** with **Jetpack Compose**  
+- Implementing clean architectures and scalable solutions  
 
-### 📫 How to reach me:
-#### Feel free to reach out to me through my [Linkedin](https://www.linkedin.com/in/ahmed-omara-546955187/).
+---
+
+### 💡 Let’s Connect!  
+Have questions about **Android architecture**, **Kotlin**, or anything **Android-related**? I’d love to help!  
+
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/ahmed-omara-546955187/)  
+✍️ Check out my articles on [Medium](https://medium.com/@ahmedomara1)  
